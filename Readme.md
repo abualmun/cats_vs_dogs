@@ -75,5 +75,4 @@ pip install torch torchvision matplotlib pillow
 ---
 
 Happy Training! 🚀
-
-
+````
