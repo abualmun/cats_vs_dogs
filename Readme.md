@@ -1,6 +1,7 @@
-````markdown
 # Cats vs Dogs Classifier 🐱🐶
-![Outputs](screenshots/0.jpg)
+
+![Output](screenshots/0.jpg)
+
 
 
 
@@ -37,7 +38,7 @@ The `test.py` script takes an image path as an argument and outputs the predicti
 python test.py path_to_image.jpg
 ````
 
-![Outputs](screenshots/1.jpg)
+![Output](screenshots/1.jpg)
 
 
 ## 🗃️ Saved Model
@@ -71,8 +72,3 @@ pip install torch torchvision matplotlib pillow
 
 * Dataset sourced from [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats).
 * Built using PyTorch and torchvision.
-
----
-
-Happy Training! 🚀
-````
